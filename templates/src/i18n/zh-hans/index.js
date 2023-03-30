@@ -54,7 +54,7 @@ export default {
     inbound: '收货管理',
     outbound: '发货管理',
     stock: '库存管理',
-    finance: '财务中心',
+    finance: '财务',
     goods: '商品管理',
     baseinfo: '基本设置',
     warehouse: '仓库设置',
